@@ -1,14 +1,16 @@
 # P-Winter V1 (archive)
 
+![front image](v1final/images/above.png)
+
 ## Welcome
 - P-Winter is a CoreXY 3D printer. It aims for an accessible BOM and assembly, with drop-in nuts and a fully-bracketed frame.
 - There are major flaws with this design. It was made predominantly when I was 14 with zero experience.
-- I am working on P-Winter V2, which will reuse most of the components and hopefully completely fix some of the silly design flaws and misunderstandings in V1. The V2 concept was basically complete in SketchUp, until I realised that I'd somehow deleted it??? That's okay. I was going to model it in Fusion 360 anyways.
-- V1 cost estimate: approx 50 GBP for non-printed parts in the final printer, not including prototyping waste. Currency converted
+- I am working on P-Winter V2, which will reuse most of the components iron out some silly design flaws and misunderstandings from V1. Well, I had basically completed the V2 concept in SketchUp, but when I went to model it properly in Fusion 360, the files had disappeared! >:(
+- V1 cost estimate: approx 50 GBP for non-printed parts in the final printer, not including prototyping waste.
 
 # V2 Changes
 ## Overview
-There were a few fatal flaws and inconveniences with V1. V2 strives to fix most of these. It aims primarily for: a more sensible belt path, a more sensible Z axis, a filtered enclosure, a (larger) more sensible build volume.
+There were a few fatal flaws and inconveniences with V1. V2 strives to fix most of these. V2 primarily aims for a more sensible belt path, a more sensible Z axis, a filtered enclosure, a (larger) more sensible build volume.
 
 ## Dimensions and V2 Enclosure
 - V1 Frame (2020 T-slot extrusions): 380mm x 340mm x 500mm
